@@ -1,0 +1,15 @@
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\bin\Debug\net6.0\3.Thread_3_bankExample_Block.exe
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\bin\Debug\net6.0\3.Thread_3_bankExample_Block.deps.json
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\bin\Debug\net6.0\3.Thread_3_bankExample_Block.runtimeconfig.json
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\bin\Debug\net6.0\3.Thread_3_bankExample_Block.dll
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\bin\Debug\net6.0\3.Thread_3_bankExample_Block.pdb
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\obj\Debug\net6.0\3.Thread_3_bankExample_Block.csproj.AssemblyReference.cache
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\obj\Debug\net6.0\3.Thread_3_bankExample_Block.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\obj\Debug\net6.0\3.Thread_3_bankExample_Block.AssemblyInfoInputs.cache
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\obj\Debug\net6.0\3.Thread_3_bankExample_Block.AssemblyInfo.cs
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\obj\Debug\net6.0\3.Thread_3_bankExample_Block.csproj.CoreCompileInputs.cache
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\obj\Debug\net6.0\3.Thread_3_bankExample_Block.dll
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\obj\Debug\net6.0\refint\3.Thread_3_bankExample_Block.dll
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\obj\Debug\net6.0\3.Thread_3_bankExample_Block.pdb
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\obj\Debug\net6.0\3.Thread_3_bankExample_Block.genruntimeconfig.cache
+Z:\C#\3.Thread_3_bankExample_Block\3.Thread_3_bankExample_Block\obj\Debug\net6.0\ref\3.Thread_3_bankExample_Block.dll
