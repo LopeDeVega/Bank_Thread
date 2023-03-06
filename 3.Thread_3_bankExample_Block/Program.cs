@@ -88,7 +88,7 @@ public class BankAccout
 
     public void callWithdraw()
     {
-        Console.WriteLine($"Current Thread withdrawing money: {Thread.CurrentThread.Name}");
+        Console.WriteLine($"Current Thread Withdrawing money: {Thread.CurrentThread.Name}");
         withdrawMoney(500);
     }
 
