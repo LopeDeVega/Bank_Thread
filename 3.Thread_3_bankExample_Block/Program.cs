@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-//string finishTransaction;
 
 //BankAccount class iniciate
 using System.Linq.Expressions;
@@ -10,10 +9,7 @@ BankAccout myAccount = new BankAccout(2500);
 //List of Threads 
 Thread[] listThread = new Thread[10]; 
 
-//string endTransaction()
-//{
-   // Console.WriteLine("Do you want to continue with another transaction? ");
-    
+   
     //Each thread calling callWithraw method
     for(int i =0; i< listThread.Length; i++) {
         
@@ -28,23 +24,11 @@ Thread[] listThread = new Thread[10];
     for(int i =0; i<10; i++)
     {
         listThread[i].Start();
+        //Join synchronize threads.
+        //First thread withdraw money and then second, third, fouth....
+        listThread[i].Join();
         Thread.Sleep(1000);
     }
-
-    //return finishTransaction = Console.ReadLine();
-//};
-
-
-//do { 
-
-//Console.WriteLine("How much money do you want to get ?");
-
-//myAccount.amountWithDrawMoney = Int32.Parse(Console.ReadLine());
-
-//finishTransaction = endTransaction();
-
-//} while (finishTransaction != "No") ;
-
 
 
 public class BankAccout
@@ -91,7 +75,4 @@ public class BankAccout
         Console.WriteLine($"Current Thread Withdrawing money: {Thread.CurrentThread.Name}");
         withdrawMoney(500);
     }
-
-
-
 } 
